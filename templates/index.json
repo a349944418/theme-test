@@ -119,7 +119,7 @@
       "disabled": false,
       "type": "collection-list",
       "settings": {
-        "title": "Collection list",
+        "title": "zbq list",
         "collection_title_position": "left-center",
         "button_text": "View all",
         "color_scheme": "none",
