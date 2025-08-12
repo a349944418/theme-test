@@ -1,0 +1,101 @@
+{
+  "sections": {
+    "main-article": {
+      "disabled": false,
+      "type": "main-article",
+      "settings": {},
+      "blocks": {
+        "block1": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": true,
+            "blog_show_author": true
+          }
+        },
+        "block2": {
+          "type": "select",
+          "settings": {
+            "image_height": "medium"
+          }
+        },
+        "block3": {
+          "type": "content",
+          "settings": {}
+        },
+        "block4": {
+          "type": "share",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "block1",
+        "block2",
+        "block3",
+        "block4"
+      ]
+    },
+    "17543760521125b9dc61": {
+      "disabled": false,
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "heading_size": "title3",
+        "products_to_show": 12,
+        "columns_desktop": 4,
+        "full_width": false,
+        "columns_mobile": 2,
+        "enable_desktop_slider": true,
+        "enable_mobile_slider": true,
+        "button_text": "View all",
+        "full_in_mobile": false,
+        "button_follow_endof_list": false,
+        "product_image_ratio": "150",
+        "image_fill_type": "cover",
+        "image_grid_shape": "square",
+        "show_secondary_image": true,
+        "padding_top": 80,
+        "padding_bottom": 80,
+        "btn_border_radius": 6,
+        "tab_background_color": "#E1E4E8",
+        "tab_text_color": "#000000",
+        "tab_background_color_normal": "#F8F8F8",
+        "tab_text_color_normal": "#686868"
+      },
+      "blocks": {
+        "175437605211490a162b": {
+          "type": "collection",
+          "settings": {
+            "collection_title": "Collection",
+            "collection": "12264055467416517434290000"
+          },
+          "blockId": "175437605211490a162b",
+          "custom_css": []
+        },
+        "17543760521144cb66fa": {
+          "type": "collection",
+          "settings": {
+            "collection_title": "Collection"
+          },
+          "blockId": "17543760521144cb66fa"
+        },
+        "1754376052114bc77e37": {
+          "type": "collection",
+          "settings": {
+            "collection_title": "Collection"
+          },
+          "blockId": "1754376052114bc77e37"
+        }
+      },
+      "block_order": [
+        "175437605211490a162b",
+        "17543760521144cb66fa",
+        "1754376052114bc77e37"
+      ],
+      "custom_css": []
+    }
+  },
+  "order": [
+    "main-article",
+    "17543760521125b9dc61"
+  ]
+}
