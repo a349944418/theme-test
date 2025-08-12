@@ -119,9 +119,9 @@
       "disabled": false,
       "type": "collection-list",
       "settings": {
-        "title": "zbq123 list",
+        "title": "zhenghaonan list",
         "collection_title_position": "left-center",
-        "button_text": "View all1111",
+        "button_text": "View all",
         "color_scheme": "none",
         "show_collection_cover": true,
         "cover_image_size": "w_1_h_2",
